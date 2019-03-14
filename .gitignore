@@ -1,6 +1,7 @@
 # Prerequisites
 *.d
-
+*.cs.meta
+*.meta
 # Object files
 *.o
 *.ko
